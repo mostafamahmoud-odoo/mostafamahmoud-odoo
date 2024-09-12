@@ -5,19 +5,21 @@
 
 ## 👨‍💻 Professional Summary
 
-I am a **Software Developer** with over **3 years of experience** in real-world projects, specializing in **Mobile Applications** and **ERP systems**. I engage in the full software development lifecycle, leveraging both backend and frontend development skills. My key goal is to apply my problem-solving skills and collaborate with teams to build enterprise application solutions.
+I am a **Software Developer** with over **3 years of experience** in real-world projects, specializing in  and **ERP systems**. I engage in the full software development lifecycle, leveraging both backend and frontend development skills. My key goal is to apply my problem-solving skills and collaborate with teams to build enterprise application solutions.
 
 ## 💼 Experience
 
-### 🖥️ 2CooM, Software Engineer (Mar 2023 – Jul 2024)
-- 🐍 Developed Python scripts to synchronize two databases with different structures, using **Python**, **MySQL**, **MSQL**, **Pandas**, and **JSON**.
-- 🌐 Built **RESTful APIs** for mobile applications using **FastAPI**.
-- 🛠️ Version control using **Git** and **GitLab**.
-- 📊 Worked extensively on an **ERP system** using **Python (Odoo)**.
-- 🐳 Knowledge and hands-on experience with **Docker** and **Docker Hub**.
-- ☁️ Cloud experience with **AWS**, **ESXI**, and **Digital Ocean**.
-- 🐧 Expertise in **Linux administration** (Ubuntu) and **Bash scripting**.
-
+*** 🖥️ 2CooM, Software Engineer (Mar 2023 – Jul 2024)
+    🔧 Customized Odoo ERP Modules from backend to client-side using Python and XML.
+    🌐 Customized and created multiple websites using the Odoo Website.
+    🛠️ Managed Odoo development and deployment servers.
+    📦 Created custom Odoo Modules.
+    🐍 Developed Python scripts for syncing two databases with different structures, using Python, MySQL, MSQL, Pandas, and JSON.
+    🛠️ Installed GitLab Server, reducing development time by 60% and simplifying the deployment process.
+    🐳 Knowledge in DevOps with Docker, AWS, ESXI, and Digital Ocean.
+    🐧 Experience in Linux Administration (Ubuntu).
+    🌐 Knowledge of Nginx Server.
+    🤝 Skills in client interactions, requirement gathering, system deployment, and timeline planning.
 ### 🛠️ Freelance Odoo ERP Deployment (Sep 2024)
 - 🚀 Deployed **Odoo ERP system** using **Kubernetes** with a **PostgreSQL** backend, demonstrating proficiency in managing and scaling complex ERP systems in cloud-native environments.
 
