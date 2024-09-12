@@ -11,7 +11,9 @@ I am a **Software Developer** with over **3 years of experience** in real-world 
 
 *** 🖥️ 2CooM, Software Engineer (Mar 2023 – Jul 2024)
     - 🔧 Customized Odoo ERP Modules from backend to client-side using Python and XML.
+    
     - 🌐 Customized and created multiple websites using the Odoo Website.
+    
     - 🛠️ Managed Odoo development and deployment servers.
     - 📦 Created custom Odoo Modules.
     - 🐍 Developed Python scripts for syncing two databases with different structures, using Python, MySQL, MSQL, Pandas, and JSON.
