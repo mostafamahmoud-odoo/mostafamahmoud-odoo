@@ -1,7 +1,7 @@
 # Mostafa Mahmoud Ahmed
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/mostafa-mahmoud-690a32328)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-lightgrey?style=for-the-badge&logo=github)](https://github.com/Moustafa0351)
+
 
 ## 👨‍💻 Professional Summary
 
